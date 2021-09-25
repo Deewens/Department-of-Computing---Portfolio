@@ -1,21 +1,22 @@
-# Portfolio-DUT-Informatique_IUTMetz
+# Department of Computing - Portfolio
 
-Site web de type Portfolio permettant de présenter le DUT Informatique de l'IUT de Metz (bien que le site puisse être utilisé pour d'autres IUT).
-Créé à la main sans utilisation de framework avec HTML/CSS, PHP, MySQL et Javascript.
+Portfolio website for posting projects made in the Computing Department of the Metz University Institute of Technology.
+Created without any framework with HTML5, CSS3, PHP, MySQL and JavaScript.
 
-## Fonctionnalités
+## Features
 
-* Système d'authentification administrateur
-* Ajout de nouveaux articles (projets)
-* Suppression
-* Modification
+* Admin account system
+* Add new projets
+* Delete project
+* Update project
+* Display the project list for each courses of the department
 
-**Connexion administrateur sur le site (en utilisant la base de données fournie) :**
+**Admin credentials (if you are using the furnished database) :**
 * Login : admin
 * Mot de passe : admin
 
 ## Auteurs
-* Deewens
+* Adrien (Me)
 * Arthur (https://github.com/Arthur57255)
 
 ## Screenshots
